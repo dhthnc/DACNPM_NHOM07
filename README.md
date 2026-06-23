@@ -12,10 +12,10 @@ Hệ thống bán hàng và thanh toán khách sạn LuxStay.
 
 ## Thành viên
 - Đinh Hữu Trí
-- Thành viên 2
-- Thành viên 3
-- Thành viên 4
-- Thành viên 5
+- Đinh Lê Kiều Linh
+- Nguyễn Ý Phi
+- Võ Anh Tuấn
+- Dương Võ Bảo Châu
 
 ## Chức năng
 - Đăng nhập
